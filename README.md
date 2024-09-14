@@ -1,4 +1,4 @@
-# Misha Gupta Personal Portfolio Website 
+# Personal Portfolio Website 
 
 ### Made using React + Vite, Tailwind CSS, and Framer Motion
 
