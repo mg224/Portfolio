@@ -18,7 +18,7 @@ export const EXPERIENCES = [
     year: "2024 - Present",
     role: "SAT & Computer Science tutor",
     company: "The Princeton Review",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    description: `Delivered personalized SAT and AP Computer Science A tutoring sessions to classes of 20 underprivileged students, improving SAT scores by an average of 150 points and helping students achieve passing scores on AP exams. Designed engaging lesson plans covering Java programming fundamentals, data structures, and algorithms, boosting students' academic performance and increasing AP Computer Science A test scores by 25%`,
     technologies: ["Java", "Data Structures", "Algorithms", "Recursion"],
   },
 ];
