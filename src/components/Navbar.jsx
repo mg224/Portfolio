@@ -10,20 +10,20 @@ const Navbar = () => {
             Misha
         </div>
         <div className="m-8 flex items-center justify-center gap-4">
-            <Link to="about" smooth={true} duration={500}>
+            <Link to="about" smooth={true} duration={500} className="cursor-pointer hover:text-purple-700">
               About
             </Link>
-            <Link to="experience" smooth={true} duration={500}>
+            <Link to="experience" smooth={true} duration={500} className="cursor-pointer hover:text-purple-700">
               Experience
             </Link>
-            <Link to="projects" smooth={true} duration={500}>
+            <Link to="projects" smooth={true} duration={500} className="cursor-pointer hover:text-purple-700">
               Projects
             </Link>
-            <Link to="contact" smooth={true} duration={500}>
+            <Link to="contact" smooth={true} duration={500} className="cursor-pointer hover:text-purple-700">
               Contact
             </Link>
-            <a href="https://linkedin.com/in/mishasgupta" className=" text-2xl"><FaLinkedin /></a>
-            <a href="https://github.com/mg224" className=" text-2xl"><FaGithub /></a>
+            <a href="https://linkedin.com/in/mishasgupta" className=" text-2xl cursor-pointer hover:text-purple-700"><FaLinkedin /></a>
+            <a href="https://github.com/mg224" className="text-2xl cursor-pointer hover:text-purple-700"><FaGithub /></a>
         </div>
     </nav>
   );
