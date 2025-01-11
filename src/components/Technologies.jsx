@@ -4,8 +4,8 @@ import { FaJava } from "react-icons/fa";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { RiJavascriptFill } from "react-icons/ri";
-import { SiFlask } from "react-icons/si";
 import { RiReactjsLine } from "react-icons/ri";
+import { FaNode } from "react-icons/fa";
 // import { TbBrandNextjs } from "react-icons/tb";
 // import { SiMongodb } from "react-icons/si";
 import { motion } from 'framer-motion';
@@ -76,7 +76,7 @@ const Technologies = () => {
             initial="initial"
             animate="animate" 
             className="rounded-2xl border-4 border-neutral-800 p-4">
-                <SiFlask className="text-7xl text-cyan-400"/>
+                <FaNode className="text-7xl text-green-400"/>
             </motion.div>
             <motion.div 
             variants={iconVariants(3)}
