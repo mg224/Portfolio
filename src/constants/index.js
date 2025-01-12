@@ -4,7 +4,7 @@ import project3 from "../assets/projects/project-3.jpg";
 
 export const HERO_CONTENT = `Hi! I'm Misha, a motivated university student passionate about math, computer science, and data science. Throughout my time in university, I have developed skills in full stack engineering, machine learning, and artificial intelligence through various work experiences and personal projects. My main career interests are in software development/engineering, data science/engineering, and quantitative finance.`;
 
-export const ABOUT_TEXT = `I am a current student at Emory University studying math and computer science. Since beginning my studies in computer science, I have worked with a variety of languages, including Python, Java, C, SQL, HTML, CSS, and JavaScript. I have also used various libraries, frameworks, and technologies, such as React.js, Node.js, and PostgreSQL. My work in software development is motivated by impact-driven projects. I love to use software as a tool to improve the lives of others and make real impact that I can see in the world. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy playing in my university orchestra, watching sports, leading outdoor trips, and going to the gym.`;
+export const ABOUT_TEXT = `I am a current student at Emory University studying math and computer science. Since beginning my studies in computer science, I have worked with a variety of languages, including Python, Java, C, SQL, HTML, CSS, and JavaScript. I have also used various libraries, frameworks, and technologies, such as Flask, React.js, and Node.js. Currently, I'm diving into learning more about backend development with Spring Boot and PostgreSQL. My work in software development is motivated by impact-driven projects. I love to use software as a tool to improve the lives of others and make real impact that I can see in the world. Outside of academics, I enjoy playing in my university orchestra, watching sports, leading outdoor trips, and going to the gym.`;
 
 export const EXPERIENCES = [
   {
@@ -48,7 +48,7 @@ export const PROJECTS = [
     title: "APIDA Networking Platform (Currently in progress)",
     image: project3,
     description: "A full stack platform with functionality similar to Linkedin where students identifying as Asian, Pacific Islander, and/or Desi American can connect with similarly-identifying Emory graduates to learn about various careers in Law, Government, Finance, Nonprofits, and more.",
-    technologies: ["React.js", "Express.js", "MongoDB"],
+    technologies: ["React.js", "Spring Boot", "PostgreSQL"],
   },
 ];
 
